@@ -5,12 +5,15 @@
  }
 
  .reveal h1{
+    position:absolute;
+    top:0;
+    left:0;
+    text-align: center;
     background-color:black;
  }
 
  .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     color: #D84315;
-    text-align:center;
  }
  
  .reveal span.MathJax{
