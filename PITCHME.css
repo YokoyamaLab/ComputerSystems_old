@@ -4,6 +4,10 @@
     letter-spacing: 0.05em;
  }
 
+ .reveal .slides > section{
+    padding:0;
+ }
+ 
  .reveal h1{
     position:absolute;
     top:0;
