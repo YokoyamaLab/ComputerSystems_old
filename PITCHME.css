@@ -7,13 +7,16 @@
  .reveal .slides > section{
     padding:0;
  }
- 
- .reveal h1{
-    position:absolute;
-    top:0;
-    left:0;
+
+ .reveal h1:first-child{
     text-align: center;
-    background-color:black;
+    background-image:url("/assets/logo.svg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-color: black;
+    padding-left:10vh;
+    height:10vh;
+    background-size: auto 10vh;
  }
 
  .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
