@@ -6,4 +6,6 @@
 
 ### 担当：横山昌平(情報科学科)
 
++++?include=../day01/PITCHME.md
+
 ---?include=2019/PITCHME.md
