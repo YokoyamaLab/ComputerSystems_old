@@ -1,11 +1,28 @@
 .reveal .slides section{
     line-height: 1.5;
-    font-size: 90%;
+    font-size: 80%;
     letter-spacing: 0.05em;
  }
+
+ .reveal .slides > section{
+    padding:0;
+ }
+
+ .reveal h1:first-child{
+    text-align: center;
+    background-image:url("/assets/logo.svg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    padding-right:15vh;
+    height:15vh;
+    background-size: auto 15vh;
+    font-size:13vh;
+    line-height: 15vh;
+    overflow: hidden;
+ }
+
  .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     color: #D84315;
-    test-align:center;
  }
  
  .reveal span.MathJax{
