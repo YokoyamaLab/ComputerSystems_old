@@ -12,6 +12,6 @@
 
 # スケジュール
 
-+++?include=day01/GITPITCH.md
++++?include=day01/PITCHME.md
 
-+++?include=day02/GITPITCH.md
++++?include=day02/PITCHME.md
